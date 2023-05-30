@@ -1,0 +1,10 @@
+git init  -  cria um repositorio
+git status -  mostra as info e se tem repo sem estar com commit 
+git add nome_do_arquivo -  add o arquivo ao repo
+git add . adiciona todos os arquivos ao repositório 
+
+//Salvando os arquivos (commitado)
+    Commitando um expecifico
+    git commit nome_do_arquivo -m "Primeiro commit"
+
+
