@@ -9,8 +9,8 @@ git add . adiciona todos os arquivos ao repositório
     git commit -m "Comitando todos os  arquivos"
 
 // Colocando o projeto no github
-git branch -M main
-git remote add origin https://github.com/ServerK001/curso_git.git
-git push -u origin main
+    git branch -M main
+    git remote add origin https://github.com/ServerK001/curso_git.git
+    git push -u origin main
 Ele vai pedir para logar no github
-Após logar os arquivos sobre para o github
+Após logar os arquivos sobre para o github.
