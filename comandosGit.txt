@@ -6,5 +6,6 @@ git add . adiciona todos os arquivos ao repositório
 //Salvando os arquivos (commitado)
     Commitando um expecifico
     git commit nome_do_arquivo -m "Primeiro commit"
+    git commit -m "Comitando todos os  arquivos"
 
 
