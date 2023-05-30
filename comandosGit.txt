@@ -14,3 +14,7 @@ git add . adiciona todos os arquivos ao repositório
     git push -u origin main
 Ele vai pedir para logar no github
 Após logar os arquivos sobre para o github.
+
+
+// Sincronizando informações do repositorio web com o local (busca tudo que foi modificado na web)
+git 
