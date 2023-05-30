@@ -8,4 +8,5 @@ git add . adiciona todos os arquivos ao repositório
     git commit nome_do_arquivo -m "Primeiro commit"
     git commit -m "Comitando todos os  arquivos"
 
-
+// Colocando o projeto no github
+git branch -M main
