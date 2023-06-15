@@ -1,1 +1,8 @@
-123
+Visualizar as branch's 
+    $git branch
+
+Criar uma nova branch
+    $git branch nome_da_branch
+
+Mudar de uma branch para outra
+    $git checkout nome_da_branch
