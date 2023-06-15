@@ -15,6 +15,6 @@ Deletar
     $git branch -d nome_da_branch
 
 Juntar as branch
-
+    $git merge nome_da_branch
 quando vc cria uma branch, ela é criada no  diretório que você esta
 
