@@ -18,3 +18,18 @@ Juntar as branch
     $git merge nome_da_branch
 quando vc cria uma branch, ela é criada no  diretório que você esta
 
+## Git Stash
+Retorna as alterações para o ultimo commit, é criado uma hash para identificar
+Para recupear um Stash:
+
+Mostra a lista de Stash's
+    $git stash list
+
+Retornar ao estado atual da hash correspondente 
+    $git stash applay  + id da hash
+        Ex: $git stash applay 0
+
+Ver oque foi alterado em uma stash  
+    $git stash show -p  + id
+        Ex: $git stash show -p 2
+        
