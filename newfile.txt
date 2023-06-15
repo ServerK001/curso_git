@@ -1,17 +1,1 @@
-Visualizar as branch's 
-    $git branch
-
-Criar uma nova branch
-    $git branch nome_da_branch
-
-Mudar de uma branch para outra
-    $git checkout nome_da_branch
-
-Criar uma branch e ir direto para ela
-    $git checkout -b "nome_da_branch"
-
-Deletar
-    $git branch -d nome_da_branch
-
-Juntar as branch
-    $git merge nome_da_branch
+123
